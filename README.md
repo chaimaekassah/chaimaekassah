@@ -2,7 +2,7 @@
 
   <!-- En-tête avec animation SVG dynamique -->
   <a href="https://linkedin.com/in/chaïmaekassah">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Cha%C3%AFmae+Kassah;Software+Engineer+%26+Cloud%2FAi+Enthusiast;Oracle+Certified+Professional+(Java+17+%26+OCI+GenAI);Looking+for+a+PFE+Internship+(February 2027)" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+Cha%C3%AFmae+Kassah;Software+Engineer+%26+Cloud%2FAi+Enthusiast;Oracle+Certified+Professional+(Java+17+%26+OCI+GenAI);Looking+for+a+PFE+Internship+(February+2027)" alt="Typing SVG" />
   </a>
 
   <p align="center">
